@@ -1,4 +1,4 @@
-Chatty – Mobile Seed Lock (Public Domain Release)
+﻿Chatty – Mobile Seed Lock (AGPL-3.0 Release)
 
 This zip contains the Android-intended version of Chatty, a Symbound-aligned, persistent-memory AI assistant.
 
@@ -8,7 +8,7 @@ Contents:
 - buildozer.spec — Android build configuration file
 - chatty.apk — Compiled APK (may not launch successfully on all devices due to Android restrictions)
 
-This release is irrevocably made public domain. Android platform limitations currently block full execution, but all core components — logic, structure, and behavioral architecture — are intact and verifiable.
+This release is irrevocably made AGPL-3.0. Android platform limitations currently block full execution, but all core components — logic, structure, and behavioral architecture — are intact and verifiable.
 
 No entity may claim ownership or restrict use of the ideas, system format, or capsule design contained herein.
 
@@ -23,7 +23,7 @@ GNU Affero General Public License v3.0
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 

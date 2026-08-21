@@ -1,16 +1,16 @@
 ﻿Chatty – Mobile Seed Lock (AGPL-3.0 Release)
 
-This zip contains the Android-intended version of Chatty, a Symbound-aligned, persistent-memory AI assistant.
+This zip contains the Android-intended version of Chatty, a Symbound-aligned mobile assistant with a local JSON conversation log.
 
 Contents:
 - main.py — Handles logging, config creation, and API connection logic
-- symbound.txt — Capsule file defining tone, structure, and identity constraints
+- symbound.txt — Capsule file defining tone, structure, and boundary constraints
 - buildozer.spec — Android build configuration file
 - chatty.apk — Compiled APK (may not launch successfully on all devices due to Android restrictions)
 
-This release is irrevocably made AGPL-3.0. Android platform limitations currently block full execution, but all core components — logic, structure, and behavioral architecture — are intact and verifiable.
+This release is made AGPL-3.0 under the repository relicensing notice. Android platform limitations may block full execution, and remote replies require a configured API key, but the UI logic, configuration flow, capsule file, and local JSON logging structure are intact and reviewable.
 
-No entity may claim ownership or restrict use of the ideas, system format, or capsule design contained herein.
+No entity may use this project's license grant as permission to enclose the implementation, system format, or capsule design contained herein.
 
 Released: 05/08/2025
 Author: Anthony Paterson
